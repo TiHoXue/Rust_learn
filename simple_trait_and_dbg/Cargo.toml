@@ -1,0 +1,6 @@
+[package]
+name = "simple_trait_and_dbg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
